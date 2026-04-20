@@ -4,4 +4,4 @@ jobs:
   hola:
     runs-on: ubuntu-latest
     steps:
-    - run: echo "¡Pipeline funcionando!"
+    - run: echo "¡Pipeline funcionando -- OK!"
