@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Ejecutar script
-        run: echo "Hola, GitHub Actions"
+        run: echo "Hola, GitHub Actions -- RUN ECHO"
